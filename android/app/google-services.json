@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517699410012",
+    "project_id": "chat-app-85d35",
+    "storage_bucket": "chat-app-85d35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517699410012:android:a31a052cff3fc5ab67ee99",
+        "android_client_info": {
+          "package_name": "com.example.firebaselearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwhasv_zjTwESJfCKMBMZWw56KkOuqVnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
